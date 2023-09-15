@@ -10,3 +10,4 @@ The assignment was split into three parts. Part one was exploratory data analysi
 
 * The project was built in Python.
 * Using a simple multi-layer perceptron model, a final F1-score of 0.85 was obtained for the training data, and a final F1-score of 0.86 was obtained for the test data.
+* The project received a passing grade with positive remarks.
